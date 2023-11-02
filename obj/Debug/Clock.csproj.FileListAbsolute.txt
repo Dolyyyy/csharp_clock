@@ -1,0 +1,14 @@
+C:\Users\a.burot\Desktop\C#\4\Notepad\Notepad\obj\Debug\Clock.csproj.AssemblyReference.cache
+C:\Users\a.burot\Desktop\C#\4\Notepad\Notepad\obj\Debug\Clock.csproj.GenerateResource.cache
+C:\Users\a.burot\Desktop\C#\4\Notepad\Notepad\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+C:\Users\a.burot\Desktop\C#\4\Notepad\Notepad\bin\Debug\Clock.exe.config
+C:\Users\a.burot\Desktop\C#\4\Notepad\Notepad\bin\Debug\Clock.exe.manifest
+C:\Users\a.burot\Desktop\C#\4\Notepad\Notepad\bin\Debug\Clock.application
+C:\Users\a.burot\Desktop\C#\4\Notepad\Notepad\bin\Debug\Clock.exe
+C:\Users\a.burot\Desktop\C#\4\Notepad\Notepad\bin\Debug\Clock.pdb
+C:\Users\a.burot\Desktop\C#\4\Notepad\Notepad\obj\Debug\Clock.Properties.Resources.resources
+C:\Users\a.burot\Desktop\C#\4\Notepad\Notepad\obj\Debug\Clock.exe.manifest
+C:\Users\a.burot\Desktop\C#\4\Notepad\Notepad\obj\Debug\Clock.application
+C:\Users\a.burot\Desktop\C#\4\Notepad\Notepad\obj\Debug\Clock.exe
+C:\Users\a.burot\Desktop\C#\4\Notepad\Notepad\obj\Debug\Clock.pdb
+C:\Users\a.burot\Desktop\C#\4\Notepad\Notepad\obj\Debug\Clock.Form1.resources
